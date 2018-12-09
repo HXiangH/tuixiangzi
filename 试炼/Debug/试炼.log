@@ -1,0 +1,16 @@
+﻿  main.c
+e:\c语言代码\试炼\试炼\main.c(11): warning C4013: “time”未定义；假设外部返回 int
+e:\c语言代码\试炼\试炼\main.c(16): warning C4013: “getch”未定义；假设外部返回 int
+e:\c语言代码\试炼\试炼\main.c(46): warning C4477: “printf”: 格式字符串“%.3d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+  e:\c语言代码\试炼\试炼\main.c(46): note: 请考虑在格式字符串中使用“%lld”
+  e:\c语言代码\试炼\试炼\main.c(46): note: 请考虑在格式字符串中使用“%I64d”
+e:\c语言代码\试炼\试炼\main.c(78): warning C4477: “printf”: 格式字符串“%.3d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+  e:\c语言代码\试炼\试炼\main.c(78): note: 请考虑在格式字符串中使用“%lld”
+  e:\c语言代码\试炼\试炼\main.c(78): note: 请考虑在格式字符串中使用“%I64d”
+e:\c语言代码\试炼\试炼\main.c(137): warning C4477: “printf”: 格式字符串“%.3d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+  e:\c语言代码\试炼\试炼\main.c(137): note: 请考虑在格式字符串中使用“%lld”
+  e:\c语言代码\试炼\试炼\main.c(137): note: 请考虑在格式字符串中使用“%I64d”
+e:\c语言代码\试炼\试炼\main.c(196): warning C4477: “printf”: 格式字符串“%.3d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+  e:\c语言代码\试炼\试炼\main.c(196): note: 请考虑在格式字符串中使用“%lld”
+  e:\c语言代码\试炼\试炼\main.c(196): note: 请考虑在格式字符串中使用“%I64d”
+  试炼.vcxproj -> E:\c语言代码\试炼\Debug\试炼.exe
